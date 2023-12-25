@@ -1,3 +1,5 @@
+//Author: Garrett Russell
+
 #include <PWMServo.h> //servo library
 #include <SoftwareSerial.h> //wifi communication library
 
