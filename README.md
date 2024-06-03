@@ -2,7 +2,7 @@
 
 This Repository contains informantion pertaining to the development and testing of a 3D-printed thrust-vector mount for a model rocket.
 
-##About
+## About
 
 I started this project in the summer of 2023 to learn more about rockets and how they can be controlled. After laying out the requirements for the mount (it must be able to hold 29mm motors, actuate +/- 6 degrees in the x and y, and fit in a 74mm airframe), I began to design using Fusion 360. Numerous iterations later, I found myself with a gimbaled mount looking something like the image below.
 
