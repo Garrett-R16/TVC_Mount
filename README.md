@@ -1,6 +1,6 @@
 # TVC_Mount
 
-This Repository contains informantion pertaining to the development and testing of a 3D-printed thrust-vector mount for a model rocket.
+This Repository contains information pertaining to the development and testing of a 3D-printed thrust-vector mount for a model rocket.
 
 ## About
 
