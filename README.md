@@ -10,7 +10,7 @@ I started this project in the summer of 2023 to learn more about rockets and how
 
 After printing and assembling, I designed and soldered a protoboard flight computer, which used the Teensy 4.0. The board had two pyro channels and two servo outputs (see below).
 
-![protoboard image](PCB_image.jpg)
+![protoboard image](protoboard_image.jpg)
 
 I then used this to create some rudimentary code that could be used during a static fire test of the mount, as well as a mount holder for static fire tests (see below).
 
