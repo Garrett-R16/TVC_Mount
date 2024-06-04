@@ -8,7 +8,7 @@ I started this project in the summer of 2023 to learn more about rockets and how
 
 ![TVC mount picture](TVC_picture.png)
 
-After printing and assembling, I designed and soldered a protoboard flight computer, which used the Teensy 4.0. The board had two pyro channels and two servo outputs (see below).
+After printing and assembling, I designed and soldered a protoboard flight computer, which leveraged the Teensy 4.0. The board had two pyro channels and two servo outputs (see below).
 
 ![Protoboard image](protoboard_image.jpg)
 
